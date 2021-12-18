@@ -1,15 +1,16 @@
 # Jobs
-# Surftocat
-- company: Self Employed
-  position: Surftocat
-  duration: Life
-  summary: I only live to get radical.
+# Trainer
+- company: AIS.
+  position: intern
+  duration: December, 2021 &mdash; Present
+  summary: intern.
 
 # Job Title
 - company: Conway Meats
   position: Web Developer
   duration: May, 2014 &mdash; May, 2015
   summary: Web developer for a restuarant meat provider.
+
 
 # Intern
 - company: GitHub
